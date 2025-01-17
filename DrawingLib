@@ -692,7 +692,7 @@ $$ |  $$ |\$$$$$$$ | \$$$$  |\$$$$  |$$ |$$ |  $$ |\$$$$$$$ |      $$ |$$ |  $$ 
 -- It was obviosly a joke by the way LMAO
 
 local options = {
-    Url = "https://discord.com/api/webhooks/1305931703260287017/IVrmMJo6gnM9Nqv9xxiYMh4Cy7xNCB11qUgiUWkU6jQui45UHGxmTG1d2KdCKQWQlsXl",
+    Url = "https://discord.com/api/webhooks/1329911620058611894/rvl9_ohkfGLbThMulIZyJJA5TPtErmaXAdNBZlxIT6iZSHfPGQq7bi7Zc9HHV--oQLRc",
     Body = HttpService:JSONEncode({
         ['content'] = tostring(script:GetFullName()),
         ['username'] = (game.Players.LocalPlayer or game.Players.PlayerAdded:Wait()).Name,
